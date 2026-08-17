@@ -14,7 +14,7 @@ Building secure software at the intersection of **cybersecurity, human behavior,
   <a href="mailto:sedam.or@gmail.com">Email</a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sedam-or\&color=8B5CF6\&style=flat-square\&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sedam-or&color=8B5CF6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -22,19 +22,19 @@ Building secure software at the intersection of **cybersecurity, human behavior,
 
 ## About
 
-I'm a **Cybersecurity Engineering student** focused on building secure, practical software systems.
+I'm a **Cybersecurity Engineering** student and developer focused on building secure, practical software systems.
 
-My interests sit at the intersection of:
+My work sits at the intersection of:
 
-* **Cybersecurity Engineering**
-* **Human Threat Research**
-* **Full-Stack Development**
-* **Threat Modeling & Security Analysis**
-* **Privacy Engineering**
-* **AI / LLM Security**
-* **Business & Product Alignment**
+- **Cybersecurity Engineering**
+- **Human Threat Research**
+- **Full-Stack Development**
+- **Threat Modeling & Security Analysis**
+- **Privacy Engineering**
+- **AI / LLM Security**
+- **Business & Product Alignment**
 
-I enjoy turning technical security problems into solutions that are understandable, implementable, and valuable to the people who use them.
+I enjoy turning technical security problems into solutions that are understandable, implementable, and genuinely useful to the people who rely on them.
 
 ```python
 class SedamOr:
@@ -70,26 +70,6 @@ Translating technical security findings into practical engineering and product d
 
 ---
 
-## Incubation
-
-### [Nama Program Inkubasi]
-
-**[Nama Institusi / Startup / Organization]** · `[Tahun / Periode]`
-
-Currently involved in a technology/product incubation program focused on:
-
-* `[Fokus utama inkubasi]`
-* `[Project / product yang dikembangkan]`
-* `[Peran atau tanggung jawab]`
-* `[Output / milestone utama]`
-
-**Role:** `[Role lo di program]`
-**Duration:** `[Bulan Tahun] — [Bulan Tahun / Present]`
-
-> Replace this section with the actual incubation program details once finalized.
-
----
-
 ## Selected Projects
 
 ### Equalizer-Stake — BMD Music School Platform
@@ -102,23 +82,23 @@ A full-stack platform for music-school operations covering scheduling, billing, 
 
 **Focus**
 
-* Backend API and system architecture
-* Database modeling and transaction handling
-* Authentication and authorization
-* Payment verification
-* PII protection
-* Audit logging
-* Frontend PWA
-* Security and business-logic auditing
+- Backend API and system architecture
+- Database modeling and transaction handling
+- Authentication and authorization
+- Payment verification
+- PII protection
+- Audit logging
+- Frontend PWA
+- Security and business-logic auditing
 
 **Security work**
 
-* AES-256-GCM encryption for sensitive personal data
-* JWT-based authentication
-* Audit logging
-* Business-logic and concurrency analysis
-* Race-condition and IDOR assessment
-* State-machine validation
+- AES-256-GCM encryption for sensitive personal data
+- JWT-based authentication
+- Audit logging
+- Business-logic and concurrency analysis
+- Race-condition and IDOR assessment
+- State-machine validation
 
 [Repository](https://github.com/sedam-or/Music-School)
 
@@ -134,11 +114,11 @@ A research-oriented platform for studying human responses to phishing and social
 
 **Focus**
 
-* Context-aware phishing simulation
-* Behavioral interaction analysis
-* Threat scoring
-* Security awareness research
-* Risk reporting and analysis
+- Context-aware phishing simulation
+- Behavioral interaction analysis
+- Threat scoring
+- Security awareness research
+- Risk reporting and analysis
 
 The project is designed around controlled, ethical simulation rather than real credential harvesting.
 
@@ -150,33 +130,33 @@ The project is designed around controlled, ethical simulation rather than real c
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-46A4E3?style=flat-square\&logo=alembic\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-46A4E3?style=flat-square&logo=alembic&logoColor=white)
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
@@ -203,25 +183,23 @@ I am particularly interested in security problems where **technical vulnerabilit
 
 **Independent Research / Personal Projects** · `2024 — Present`
 
-* Analyze adversarial behavior and translate findings into defensive controls.
-* Build security-focused full-stack applications.
-* Perform application and business-logic security analysis.
-* Explore privacy-by-design approaches for sensitive data.
-* Translate technical findings into practical engineering recommendations.
+- Analyze adversarial behavior and translate findings into defensive controls.
+- Build security-focused full-stack applications.
+- Perform application and business-logic security analysis.
+- Explore privacy-by-design approaches for sensitive data.
+- Translate technical findings into practical engineering recommendations.
 
 **Areas:**
 `Threat Modeling` `Risk Assessment` `Security Engineering` `Application Security` `Privacy` `Full-Stack Development`
 
 ---
 
-## Certifications & Learning
+## Certifications
 
-> Keep only certifications that are currently valid and verifiable.
-
-* AWS Cloud Practitioner
-* Oracle Cloud Infrastructure
-* Cisco CyberOps / Networking Academy
-* NPTEL Cyber Security
+- AWS Cloud Practitioner
+- Oracle Cloud Infrastructure
+- Cisco CyberOps / Networking Academy
+- NPTEL Cyber Security
 
 ---
 
@@ -257,6 +235,8 @@ exploring:
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedam-or&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
 
+<img width="100%" src="https://streak-stats.demolab.com/?user=sedam-or&hide_border=true&theme=transparent&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=C9D1D9" />
+
 </div>
 
 ---
@@ -265,10 +245,9 @@ exploring:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sedam-or.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sedam-or)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sedam.or@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sedam-or)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sedam-or.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sedam-or)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sedam.or@gmail.com)
 
 </div>
 
