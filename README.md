@@ -1,335 +1,274 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A0B2E,100:2D1B69&height=220&section=header&text=SEDAM%20OR&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%7C%20Cybersecurity%20Engineer%20%7C%20Human%20Threat%20Researcher%7C&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn"/>
-
-</div>
+# Sedam Or
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Human+Threat+Researcher+%7C+Business+Alignment+Translator;Cybersecurity+Engineering+%7C+Full+Stack+Development;Building+Secure+Systems+That+Scale" alt="Typing SVG" />
+### Cybersecurity Engineering · Human Threat Research · Secure Software Development
 
-</div>
+Building secure software at the intersection of **cybersecurity, human behavior, and product engineering**.
 
-<div align="center">
+<p>
+  <a href="https://sedam-or.github.io/portfolio">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/sedam-or">LinkedIn</a>
+  ·
+  <a href="mailto:sedam.or@gmail.com">Email</a>
+</p>
 
-![Academic](https://img.shields.io/badge/-🎓%20Cybersecurity%20Engineering-6D28D9?style=flat-square&labelColor=1A0B2E)
-![Semester](https://img.shields.io/badge/-Semester%202-7C3AED?style=flat-square&labelColor=1A0B2E)
-![Location](https://img.shields.io/badge/-🇮🇩%20Indonesia-4C1D95?style=flat-square&labelColor=1A0B2E)
-![OpenToWork](https://img.shields.io/badge/-🟢%20Open%20To%20Work-22C55E?style=flat-square&labelColor=1A0B2E)
-
-<br/>
-
-<a href="https://sedam-or.github.io/portfolio">
-<img src="https://img.shields.io/badge/-🌐%20Portfolio-8B5CF6?style=for-the-badge&labelColor=1A0B2E" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/sedam-or">
-<img src="https://img.shields.io/badge/-🔗%20LinkedIn-0A66C2?style=for-the-badge&labelColor=1A0B2E" alt="LinkedIn"/>
-</a>
-<a href="mailto:sedam.or@gmail.com">
-<img src="https://img.shields.io/badge/-📧%20Email-EA4335?style=for-the-badge&labelColor=1A0B2E" alt="Email"/>
-</a>
-<a href="https://github.com/sedam-or">
-<img src="https://img.shields.io/badge/-⭐%20GitHub-9333EA?style=for-the-badge&labelColor=1A0B2E" alt="GitHub"/>
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sedam-or&color=8B5CF6&style=flat-square&label=Profile+Views&labelColor=1A0B2E)
-![Followers](https://img.shields.io/github/followers/sedam-or?color=7C3AED&style=flat-square&labelColor=1A0B2E&label=Followers)
-![Stars](https://img.shields.io/github/stars/sedam-or?color=F59E0B&style=flat-square&labelColor=1A0B2E&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=sedam-or\&color=8B5CF6\&style=flat-square\&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧬 About
+## About
+
+I'm a **Cybersecurity Engineering student** focused on building secure, practical software systems.
+
+My interests sit at the intersection of:
+
+* **Cybersecurity Engineering**
+* **Human Threat Research**
+* **Full-Stack Development**
+* **Threat Modeling & Security Analysis**
+* **Privacy Engineering**
+* **AI / LLM Security**
+* **Business & Product Alignment**
+
+I enjoy turning technical security problems into solutions that are understandable, implementable, and valuable to the people who use them.
 
 ```python
 class SedamOr:
-    def __init__(self):
-        self.role      = "Human Threat Researcher | Business Alignment Translator"
-        self.education = "Cybersecurity Engineering — Semester 2"
-        self.focus     = "Building secure systems where threat intelligence meets product execution"
-        self.stack     = "FastAPI · PostgreSQL · Next.js · Docker · Redis"
-        self.mindset   = "Security-first engineering with business outcome ownership"
+    focus = [
+        "Cybersecurity Engineering",
+        "Human Threat Research",
+        "Secure Software Development",
+        "Security & Product Alignment",
+    ]
 
-    def what_i_do(self):
-        return """
-        I translate between human threats and business logic —
-        mapping adversary behavior to system defenses, then packaging
-        those insights into features that revenue teams can ship.
-        Cybersecurity is my craft. Product alignment is my edge.
-        """
+    approach = "Understand the threat → understand the system → build the defense"
 ```
 
-<details>
-<summary><strong>📬 Open To</strong></summary>
+---
 
-<br/>
+## What I Work On
 
-| Opportunity | Status |
-|:---|:---:|
-| Cybersecurity Internship | ✅ |
-| Threat Intelligence Role | ✅ |
-| Security Engineering Intern | ✅ |
-| Full Stack Development (Security Focus) | ✅ |
-| Bug Bounty / Responsible Disclosure | ✅ |
+### Cybersecurity
 
-</details>
+Threat modeling, security analysis, application security, business-logic auditing, privacy engineering, and human-centered security.
+
+### Software Engineering
+
+Designing and building backend APIs, full-stack applications, databases, authentication systems, asynchronous workflows, and containerized services.
+
+### Human Threat Research
+
+Exploring how human behavior, social engineering, and system design interact to create security risk.
+
+### Security & Product Alignment
+
+Translating technical security findings into practical engineering and product decisions.
 
 ---
 
-## 🛠️ Tech Stack
+## Incubation
 
-<div align="center">
+### [Nama Program Inkubasi]
 
-**Languages**
+**[Nama Institusi / Startup / Organization]** · `[Tahun / Periode]`
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A0B2E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A0B2E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1A0B2E)
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A0B2E)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1A0B2E)
+Currently involved in a technology/product incubation program focused on:
 
-<br/>
+* `[Fokus utama inkubasi]`
+* `[Project / product yang dikembangkan]`
+* `[Peran atau tanggung jawab]`
+* `[Output / milestone utama]`
 
-**Frontend**
+**Role:** `[Role lo di program]`
+**Duration:** `[Bulan Tahun] — [Bulan Tahun / Present]`
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=1A0B2E)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1A0B2E)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1A0B2E)
-![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=1A0B2E)
-
-<br/>
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1A0B2E)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A0B2E)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1A0B2E)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white&labelColor=1A0B2E)
-![Alembic](https://img.shields.io/badge/-Alembic-46A4E3?style=flat-square&logo=data:font&logoColor=white&labelColor=1A0B2E)
-
-<br/>
-
-**Cloud, DevOps & Tooling**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1A0B2E)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1A0B2E)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1A0B2E)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1A0B2E)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=1A0B2E)
-
-</div>
+> Replace this section with the actual incubation program details once finalized.
 
 ---
 
-## 🧠 AI / ML Expertise
+## Selected Projects
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Threat Modeling | ◼◼◼◼◻ | STRIDE, DREAD, attack trees, adversary emulation |
-| Anomaly Detection | ◼◼◼◻◻ | Statistical baseline, behavioral deviation, log correlation |
-| LLM Integration | ◼◼◼◼◻ | Prompt engineering, RAG pipelines, agent workflows |
-| Data Privacy Engineering | ◼◼◼◼◼ | AES-256-GCM encryption, GDPR/PDP compliance, audit logging |
-| Security Automation | ◼◼◼◼◻ | SIEM scripting, automated incident response, playbook engineering |
+### Equalizer-Stake — BMD Music School Platform
 
----
+**Full-Stack Application · Security-Focused Architecture**
 
-## 🚀 Featured Projects
+`FastAPI` · `PostgreSQL` · `Redis` · `Next.js` · `Docker`
 
-<details>
-<summary><strong>🎵 Equalizer-Stake — BMD Music School Platform</strong></summary>
+A full-stack platform for music-school operations covering scheduling, billing, attendance, notifications, and related administrative workflows.
 
-<br/>
+**Focus**
 
-| Metric | Detail |
-|:---|:---|
-| **Stack** | FastAPI · PostgreSQL · Redis · Next.js · Docker |
-| **Scale** | 11 database entities · 15 functional requirements · 20 use cases |
-| **Performance** | ≤2s page load · ≤1s validation · SELECT FOR UPDATE row locking |
-| **Security** | AES-256-GCM PII encryption · JWT HS256 · UU PDP compliance · Immutable audit logs |
-| **Impact** | End-to-end course scheduling + billing + attendance system for a real music school |
+* Backend API and system architecture
+* Database modeling and transaction handling
+* Authentication and authorization
+* Payment verification
+* PII protection
+* Audit logging
+* Frontend PWA
+* Security and business-logic auditing
 
-**What it is:** A full-stack web application for BMD Music School, Yogyakerta — handling course scheduling with real-time conflict validation, automated billing with unique payment codes, GPS + face-based attendance, and WhatsApp/email notifications. Built as a capstone project following ISO/IEC/IEEE 29148:2018 SRS standards.
+**Security work**
 
-**What I did:** Fullstack architecture, backend API design, database schema, authentication system, payment verification logic, audit logging, PII encryption, scheduler jobs, and frontend PWA. Conducted a deep business logic audit — found and fixed 14 critical race conditions, IDOR vulnerabilities, and state machine gaps.
+* AES-256-GCM encryption for sensitive personal data
+* JWT-based authentication
+* Audit logging
+* Business-logic and concurrency analysis
+* Race-condition and IDOR assessment
+* State-machine validation
 
-[![Repository](https://img.shields.io/badge/-📦%20Repository-8B5CF6?style=flat-square&labelColor=1A0B2E)](https://github.com/sedam-or/Music-School)
-
-</details>
-
-<details>
-<summary><strong>🧠 Cogni-Pish — Cognitive phishing simulation platform</strong></summary>
-
-<br/>
-
-| Metric | Detail |
-|:---|:---|
-| **Stack** | Python · FastAPI · PostgreSQL · React |
-| **Scale** | Multi-vector phishing simulation engine |
-| **Performance** | Real-time threat score computation |
-| **Security** | Ethical guardrails · Consent-based testing · No real credential harvesting |
-| **Impact** | Human threat research tool — measures organizational phishing resilience |
-
-**What it is:** A cognitive phishing simulation platform designed for human threat research. It generates context-aware phishing scenarios, tracks user interaction patterns, and produces behavioral threat intelligence reports — bridging the gap between social engineering tactics and organizational defense posture.
-
-**What I did:** Core engine design, threat scenario generation logic, behavioral analytics pipeline, and the business alignment layer that translates technical findings into executive-ready risk reports.
-
-[![Repository](https://img.shields.io/badge/-📦%20Repository-8B5CF6?style=flat-square&labelColor=1A0B2E)](https://github.com/sedam-or/cogni-pish)
-
-</details>
+[Repository](https://github.com/sedam-or/Music-School)
 
 ---
 
-## 💼 Experience
+### Cogni-Pish — Cognitive Phishing Simulation Platform
 
-### 🛡️ Human Threat Researcher & Business Alignment Translator
-**Personal Research & Open Source Projects** | 2024 — Present
+**Human Threat Research · Security Simulation**
 
-- Conduct adversary behavior analysis and map findings to system-level defenses
-- Translate technical threat intelligence into business-aligned security recommendations
-- Build secure full-stack applications with security-first architecture decisions
-- Perform deep system audits — race condition analysis, IDOR detection, state machine verification
-- Design PII encryption strategies compliant with UU PDP No. 27/2022
+`Python` · `FastAPI` · `PostgreSQL` · `React`
 
-`Threat Modeling` `Risk Assessment` `Full Stack Development` `Security Architecture` `Data Privacy` `Business Analysis`
+A research-oriented platform for studying human responses to phishing and social-engineering scenarios.
 
----
+**Focus**
 
-## 🏆 Achievements
+* Context-aware phishing simulation
+* Behavioral interaction analysis
+* Threat scoring
+* Security awareness research
+* Risk reporting and analysis
 
-<div align="center">
+The project is designed around controlled, ethical simulation rather than real credential harvesting.
 
-| Recognition | Details |
-|:---|:---|
-| 🎓 Cybersecurity Engineering Student | Semester 2 — actively building security-focused products |
-| 🔒 Business Logic Auditor | Identified 14 critical + 9 moderate gaps in production system |
-| 🏗️ Fullstack Capstone Builder | End-to-end system: SRS → Architecture → Implementation → Audit |
-| 📊 Threat Intelligence Translator | Bridging human threat research with product engineering |
-| 🌐 Open Source Contributor | Public repositories with real-world security applications |
-
-</div>
+[Repository](https://github.com/sedam-or/cogni-pish)
 
 ---
 
-## 📜 Certifications
+## Technical Stack
 
-<div align="center">
+### Languages
 
-**AWS**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1A0B2E)
+### Backend
 
-**Oracle**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-46A4E3?style=flat-square\&logo=alembic\&logoColor=white)
 
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1A0B2E)
+### Frontend
 
-**NPTEL**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-![NPTEL Cyber Security](https://img.shields.io/badge/-NPTEL%20Cyber%20Security-E65100?style=for-the-badge&logo=data:font&logoColor=white&labelColor=1A0B2E)
+### DevOps & Infrastructure
 
-**Cisco**
-
-![Cisco Networking Academy](https://img.shields.io/badge/-Cisco%20CyberOps-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A0B2E)
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1A0B2E)](https://leetcode.com/sedam-or)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A0B2E)](https://geeksforgeeks.org/user/sedam-or)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A0B2E)](https://hackerrank.com/sedam-or)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A0B2E)](https://codechef.com/users/sedam-or)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## Security Interests
 
-<div align="center">
+```text
+Application Security
+Threat Modeling
+Human Threat Research
+Security Architecture
+Privacy Engineering
+LLM / AI Security
+Business Logic Security
+Security Automation
+```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sedam-or&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=1A0B2E" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sedam-or&theme=radical&background=0D1117&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=C9D1D9" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedam-or&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sedam-or&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0D1117" />
-
-</div>
+I am particularly interested in security problems where **technical vulnerabilities, system design, and human behavior intersect**.
 
 ---
 
-## 📈 Contribution Activity
+## Experience
 
-<div align="center">
+### Human Threat Research & Security Engineering
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sedam-or&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=C9D1D9&area=true&area_color=1A0B2E&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Independent Research / Personal Projects** · `2024 — Present`
 
-</div>
+* Analyze adversarial behavior and translate findings into defensive controls.
+* Build security-focused full-stack applications.
+* Perform application and business-logic security analysis.
+* Explore privacy-by-design approaches for sensitive data.
+* Translate technical findings into practical engineering recommendations.
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/sedam-or/sedam-or/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+**Areas:**
+`Threat Modeling` `Risk Assessment` `Security Engineering` `Application Security` `Privacy` `Full-Stack Development`
 
 ---
 
-## 🎯 Current Focus
+## Certifications & Learning
+
+> Keep only certifications that are currently valid and verifiable.
+
+* AWS Cloud Practitioner
+* Oracle Cloud Infrastructure
+* Cisco CyberOps / Networking Academy
+* NPTEL Cyber Security
+
+---
+
+## Current Focus
 
 ```yaml
 learning:
-  - Advanced threat modeling frameworks
-  - LLM security and adversarial ML
-  - Cloud security architecture (AWS/Azure)
+  - Advanced threat modeling
+  - Application security
+  - LLM and AI security
+  - Cloud security architecture
+  - Secure software engineering
 
 building:
-  - Cogni-Pish cognitive phishing platform
-  - Secure full-stack applications with privacy-by-design
-  - Open source security tooling
+  - Security-focused full-stack applications
+  - Human threat research tooling
+  - Open-source security projects
 
 exploring:
-  - Red team automation
-  - Behavioral biometrics for authentication
-  - Zero trust architecture patterns
-
-open_to:
-  - Cybersecurity internships
-  - Threat intelligence roles
-  - Security engineering positions
-  - Bug bounty programs
+  - Red-team automation
+  - Behavioral security
+  - Zero-trust architectures
+  - Privacy-preserving systems
 ```
 
 ---
 
-## 🤝 Connect
+## GitHub
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-📧%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E)](mailto:sedam.or@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E)](https://linkedin.com/in/sedam-or)
-[![GitHub](https://img.shields.io/badge/-⭐%20GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E)](https://github.com/sedam-or)
-[![Portfolio](https://img.shields.io/badge/-🌐%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E)](https://sedam-or.github.io/portfolio)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sedam-or&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedam-or&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sedam-or.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sedam-or)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sedam.or@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sedam-or)
 
 </div>
 
@@ -337,8 +276,8 @@ open_to:
 
 <div align="center">
 
-*"The best security is the one that understands the human behind the threat."*
+### Building secure systems with human context.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A0B2E,100:2D1B69&height=120&section=footer" />
+*Security is not only about protecting systems — it is about understanding how those systems are used.*
 
 </div>
