@@ -60,7 +60,7 @@ class SedamOr:
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sedam-or&theme=2077" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sedam-or&theme=2077" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedam-or&theme=2077" />
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=sedam-or&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=C9D1D9" />
 
